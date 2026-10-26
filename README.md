@@ -43,6 +43,7 @@ Parçaları seçerken birbiriyle uyumlu olmasına çok dikkat edilmelidir:
 *   **Kasa & PSU:** 500W - 600W 80+ Sertifikлы Güç Kaynaklı Mesh Kasa
 
 ---
+![PC Donanım Bileşenleri](donanim-gorseli.jpg)
 
 ## 🚀 4. Kurulum Adımları (Özet)
 1.  **Anakart Hazırlığı:** İşlemciyi, M.2 SSD'yi ve RAM'leri henüz kasa dışındayken anakarta monte edin.
